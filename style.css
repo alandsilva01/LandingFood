@@ -93,10 +93,7 @@ html {
 }
 
 .content .list-menu li a{
-    padding-top: 3rem;
-    padding-bottom: 2rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 3rem 1rem 2rem 1rem;
     color: var(--corB);
     font-size: 1.8rem;
     text-transform: uppercase;
@@ -141,7 +138,7 @@ html {
     text-transform: uppercase;
     text-shadow: 6px 6px 9px #000000;
     margin-bottom: 1rem;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Lilita One', cursive;
 }
 
 .first-section h2{
